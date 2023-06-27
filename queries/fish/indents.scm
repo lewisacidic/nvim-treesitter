@@ -11,6 +11,6 @@
  (else_if_clause)
  (else_clause)
  "end"
-] @indent.branch
+] @indent.end @indent.branch
 
 (comment) @indent.ignore
